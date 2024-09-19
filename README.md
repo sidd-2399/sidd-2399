@@ -36,6 +36,3 @@ I'm a Cloud Computing enthusiast with hands-on experience in cloud operations, d
 
 Feel free to connect or reach out for collaborations, opportunities, or just to talk about technology! 😊
 
-=======
-# Siddharth
->>>>>>> 7af2b464a883d924ed9421a3122ac0579d7adcb4
