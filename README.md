@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 👋 Hi, I'm Siddharth Dalal
 
 
